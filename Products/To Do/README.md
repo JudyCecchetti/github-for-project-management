@@ -18,4 +18,4 @@ An orderly system is required to track things that need to be done and their sta
 This system shall be a static site hosted using GitHub Pages.
 
 # Test Strategy
-All Functional Requirements shall be tested using Nightwatch and executed using a Continuous Integration system
+All Functional Requirements shall be tested using Nightwatch and executed using a Continuous Integration system test
